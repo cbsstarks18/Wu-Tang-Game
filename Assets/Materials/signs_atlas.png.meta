@@ -1,0 +1,1186 @@
+fileFormatVersion: 2
+guid: baefca9e4e4eb6645b6f0a11f67d60e4
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: signs_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 702
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 701
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 701
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 700
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 701
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 700
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 697
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 696
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 661
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 660
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 660
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 659
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 660
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 659
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 656
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 655
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 620
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 619
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 619
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 618
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 619
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 618
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 615
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 614
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 579
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 578
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 578
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_27
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 577
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_28
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 578
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_29
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 577
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_30
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 574
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_31
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 573
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 538
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 537
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_34
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 537
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_35
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 536
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_36
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 537
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_37
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 536
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_38
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 533
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_39
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 532
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_40
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 494
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 493
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_42
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 493
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_43
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 492
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_44
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 493
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_45
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 492
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_46
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 489
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_47
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 488
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 452
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 451
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_50
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 451
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_51
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 450
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_52
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 451
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_53
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 450
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_54
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 447
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_55
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 446
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_56
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 385
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_58
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 384
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_59
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 383
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_60
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 384
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_61
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 383
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_62
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 380
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_63
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 379
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_64
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 344
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 343
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_66
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 343
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_67
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 342
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_68
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 343
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_69
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 342
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_70
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 339
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_71
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 338
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_72
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 303
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_73
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 302
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_74
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 302
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_75
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 301
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_76
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 302
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_77
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 301
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_78
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 298
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_79
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 297
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_80
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 262
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_81
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 261
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_82
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 261
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_83
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 260
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_84
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 261
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_85
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 260
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_86
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 257
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_87
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 256
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_88
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 221
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_89
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 220
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_90
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 220
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_91
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 219
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_92
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 220
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_93
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 219
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_94
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 216
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_95
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 215
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_96
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 177
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_97
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 176
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_98
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 176
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_99
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 175
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_100
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 176
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_101
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 175
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_102
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 172
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_103
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 171
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_104
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 135
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_105
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 134
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_106
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 134
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_107
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 133
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_108
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 134
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_109
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 133
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_110
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 130
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_111
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 129
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_112
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 62
+        width: 306
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: signs_atlas_113
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 29
+        width: 191
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

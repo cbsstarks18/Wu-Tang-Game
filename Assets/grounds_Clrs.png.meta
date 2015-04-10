@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: d999e2e67a3cb0646856edabb5b5db83
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: grounds_Clrs_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1058
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1058
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1058
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1055
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_4
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1055
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_5
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1055
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_6
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1052
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_7
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1052
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_8
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1052
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 675
+        width: 64
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 675
+        width: 63
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 916
+        width: 63
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 675
+        width: 63
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_13
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 672
+        width: 63
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 672
+        width: 62
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_15
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 913
+        width: 65
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_16
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 672
+        width: 64
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_17
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 669
+        width: 63
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_18
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 669
+        width: 64
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_19
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 910
+        width: 63
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_20
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 669
+        width: 62
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_21
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 788
+        width: 63
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_22
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 786
+        width: 65
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_23
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 783
+        width: 63
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 661
+        width: 63
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_25
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 658
+        width: 65
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_26
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 654
+        width: 63
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 571
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_28
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 571
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_29
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 571
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_30
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 568
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_31
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 568
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_32
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 568
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_33
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 565
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_34
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 565
+        width: 63
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_35
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 565
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_36
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 188
+        width: 63
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_37
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 188
+        width: 63
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_38
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 429
+        width: 65
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_39
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 188
+        width: 62
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_40
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 185
+        width: 63
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_41
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 185
+        width: 62
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_42
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 426
+        width: 63
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_43
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 185
+        width: 63
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_44
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 183
+        width: 62
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_45
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 183
+        width: 63
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_46
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 423
+        width: 63
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_47
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 183
+        width: 63
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_48
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 302
+        width: 65
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_49
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 299
+        width: 63
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_50
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 296
+        width: 63
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_51
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 174
+        width: 65
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_52
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 170
+        width: 63
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_53
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 168
+        width: 63
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grounds_Clrs_54
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 62
+        width: 235
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
